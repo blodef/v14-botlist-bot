@@ -69,4 +69,4 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ## 📧 İletişim
 
-Sorularınız veya önerileriniz için lütfen bana ulaşın: [Discord](https://discord.gg/vRaRH8kreK)
+Sorularınız veya önerileriniz için lütfen bana ulaşın: [Discord](https://discord.gg/vsc)
