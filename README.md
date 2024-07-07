@@ -32,7 +32,7 @@ Bu proje, Discord sunucularınızda botları listelemenize ve yönetmenize yard�
 1. Bu projeyi klonlayın veya projeyi indirin.
 
     ```bash
-    git clone https://github.com/SpanyDev/v14-botlist-bot.git
+    git clone https://github.com/blodef/v14-botlist-bot.git
     ```
 
 2. Proje klasöründe cmd'yi aktifleştirin.
